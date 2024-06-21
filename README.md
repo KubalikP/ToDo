@@ -8,7 +8,7 @@ This is a simple ToDo application built using C#, Windows Forms and MySQL.
 
 To get started with this application, follow these steps:
 
-1.Font: Download the font for the app
+1. **Font**: Download the font for the app
    ```bash
    https://eng.m.fontke.com/font/24526434/download/
    ```
